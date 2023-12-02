@@ -7,5 +7,6 @@ The purpose of this project is to show the well-known link between a country's G
 
 The colour of a country is used to show the energy per capita (in kWh), and the size of the scatter dots correlates to the country's GDP per capita (in USD)
 
-To use, clone repo and run>python plotly_map.py
+To use, clone repo and run
+>python plotly_map.py
 
